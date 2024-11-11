@@ -1,4 +1,4 @@
-from abc import ABC, abstractmethod
+from .abstract import CritiqueModel
 from isabelle_client import start_isabelle_server, get_isabelle_client
 from formalisation.formalisation_model import IsabelleFormaliser
 from formalisation.formalisation_model import ILPFormaliser
@@ -9,22 +9,6 @@ import json
 import re
 import yaml
 
-
-class CritiqueModel(ABC):
-    def __init__(self, generative_model,
-                 prompt_dict: Optional[dict] = None,
-                 type: Optional[str] = None):
-        self.generative_model = generative_model
-        self.prompt_dict = prompt_dict
-        self.type = type
-
-    @abstractmethod
-    def critique(self, *args, **kwargs):
-        pass
-
-    @abstractmethod
-    def shutdown(self, *args, **kwargs):
-        pass
 
 class IsabelleSolver(CritiqueModel):
     def __init__(self, generative_model, isabelle_session,
