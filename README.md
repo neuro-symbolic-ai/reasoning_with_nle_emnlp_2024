@@ -32,7 +32,7 @@ List of demonstrations:
 
  ## Citation
 
- If you find this repository useful, please consider citing our paper.
+ If you find this repository useful, please consider citing our tutorial paper.
 
 ```
 @inproceedings{valentino-freitas-2024-introductory,
