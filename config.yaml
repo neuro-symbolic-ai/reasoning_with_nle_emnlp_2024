@@ -1,0 +1,14 @@
+isabelle:
+  master_dir: 'formalisation/isabelle'
+  
+gpt-4o-mini:
+  engine: gpt-4o-mini
+  api_key: your-key
+
+gpt-3.5-turbo:
+  engine: gpt-3.5-turbo
+  api_key: your-key
+
+gpt-4o:
+  engine: gpt-4o
+  api_key: your-key
