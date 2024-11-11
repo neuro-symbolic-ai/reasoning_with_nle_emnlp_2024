@@ -21,8 +21,7 @@ High-level overiew of the framework:
 
 ## Demonstrations
 
-To integrate the datasets we ude a different python package called SSKB: SSKB: https://github.com/neuro-symbolic-ai/SSKB
-
+To integrate the datasets we used a different Python package called SSKB: `pip install sskb`
 List of demonstrations:
 
 - Explanation Retrieval and Explanatory Unification Patterns, [link](https://github.com/neuro-symbolic-ai/reasoning_with_nle_emnlp_2024/blob/main/Explanation%20Retrieval.ipynb).
