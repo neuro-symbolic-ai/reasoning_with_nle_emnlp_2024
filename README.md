@@ -25,9 +25,9 @@ To integrate the datasets we ude a different python package called SSKB: SSKB: h
 
 List of demonstrations:
 
-- Explanation Retrieval and Explanatory Unification Patterns, [link](https://github.com/neuro-symbolic-ai/emnlp2024_nle_tutorial/blob/main/Explanation%20Retrieval.ipynb).
-- LLMs-Symbolic Explanation Refinement (with hard critique), [link](https://github.com/neuro-symbolic-ai/emnlp2024_nle_tutorial/blob/main/Neuro-Symbolic%20Explanation%20Refinement.ipynb)
-- Inference to the Best Explanation in Large Language Models (with soft critiques), [link](https://github.com/neuro-symbolic-ai/emnlp2024_nle_tutorial/blob/main/Inference%20to%20the%20Best%20Explanation.ipynb)
+- Explanation Retrieval and Explanatory Unification Patterns, [link](https://github.com/neuro-symbolic-ai/reasoning_with_nle_emnlp_2024/blob/main/Explanation%20Retrieval.ipynb).
+- LLMs-Symbolic Explanation Refinement (with hard critique), [link](https://github.com/neuro-symbolic-ai/reasoning_with_nle_emnlp_2024/blob/main/Neuro-Symbolic%20Explanation%20Refinement.ipynb)
+- Inference to the Best Explanation in Large Language Models (with soft critiques), [link](https://github.com/neuro-symbolic-ai/reasoning_with_nle_emnlp_2024/blob/main/Inference%20to%20the%20Best%20Explanation.ipynb)
 - Inductive Logic Programming with LLMs, [link](https://github.com/neuro-symbolic-ai/emnlp2024_nle_tutorial/blob/main/Hybrid%20Inductive%20Logic%20Programming.ipynb)
 
 
