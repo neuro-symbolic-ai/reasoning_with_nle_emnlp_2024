@@ -6,7 +6,7 @@ Due to the importance of explanations in human reasoning, an increasing amount o
 
 In this tutorial, we provide a comprehensive introduction to the field of explanation-based NLI, grounding this discussion on the epistemological-linguistic foundations of explanations, systematically describing the main architectural trends and evaluation methodologies that can be used to build systems capable of explanatory reasoning.
 
-Tutorial paper: https://aclanthology.org/2024.emnlp-tutorials.4/
+Tutorial paper:  https://arxiv.org/abs/2410.04148
 
 Tutorial website: https://sites.google.com/view/reasoning-with-explanations
 
