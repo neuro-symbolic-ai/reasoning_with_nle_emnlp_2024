@@ -36,18 +36,12 @@ List of demonstrations:
  If you find this repository useful, please consider citing our tutorial paper.
 
 ```
-@inproceedings{valentino-freitas-2024-introductory,
-    title = "Introductory Tutorial: Reasoning with Natural Language Explanations",
-    author = "Valentino, Marco  and
-      Freitas, Andr{\'e}",
-    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Tutorial Abstracts",
-    month = nov,
-    year = "2024",
-    address = "Miami, Florida, USA",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.emnlp-tutorials.4",
-    pages = "25--31"
-    }
+@article{valentino2024reasoning,
+  title={Reasoning with Natural Language Explanations},
+  author={Valentino, Marco and Freitas, Andr{\'e}},
+  journal={arXiv preprint arXiv:2410.04148},
+  year={2024}
+}
 ```
 
 
