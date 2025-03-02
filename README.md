@@ -36,11 +36,21 @@ List of demonstrations:
  If you find this repository useful, please consider citing our tutorial paper.
 
 ```
-@article{valentino2024reasoning,
-  title={Reasoning with Natural Language Explanations},
-  author={Valentino, Marco and Freitas, Andr{\'e}},
-  journal={arXiv preprint arXiv:2410.04148},
-  year={2024}
+@inproceedings{valentino-freitas-2024-introductory,
+    title = "Reasoning with Natural Language Explanations",
+    author = "Valentino, Marco  and
+      Freitas, Andr{\'e}",
+    editor = "Li, Jessy  and
+      Liu, Fei",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Tutorial Abstracts",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-tutorials.4/",
+    doi = "10.18653/v1/2024.emnlp-tutorials.4",
+    pages = "25--31",
+    abstract = "Explanation constitutes an archetypal feature of human rationality, underpinning learning and generalisation, and representing one of the media supporting scientific discovery and communication. Due to the importance of explanations in human reasoning, an increasing amount of research in Natural Language Inference (NLI) has started reconsidering the role that explanations play in learning and inference, attempting to build explanation-based NLI models that can effectively encode and use natural language explanations on downstream tasks. Research in explanation-based NLI, however, presents specific challenges and opportunities, as explanatory reasoning reflects aspects of both material and formal inference, making it a particularly rich setting to model and deliver complex reasoning. In this tutorial, we provide a comprehensive introduction to the field of explanation-based NLI, grounding this discussion on the epistemological-linguistic foundations of explanations, systematically describing the main architectural trends and evaluation methodologies that can be used to build systems capable of explanatory reasoning."
 }
 ```
 
