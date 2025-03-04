@@ -1,4 +1,4 @@
-# Reasoning with Natural Language Explanations (Tutorial at EMNLP 2024)
+# Reasoning with Natural Language Explanations (Tutorial @ EMNLP 2024)
 
 Explanation constitutes an archetypal feature of human rationality, underpinning learning and generalisation, and representing one of the media supporting scientific discovery and communication. 
 
@@ -6,7 +6,7 @@ Due to the importance of explanations in human reasoning, an increasing amount o
 
 In this tutorial, we provide a comprehensive introduction to the field of explanation-based NLI, grounding this discussion on the epistemological-linguistic foundations of explanations, systematically describing the main architectural trends and evaluation methodologies that can be used to build systems capable of explanatory reasoning.
 
-Tutorial paper:  https://arxiv.org/abs/2410.04148
+Tutorial paper:  https://aclanthology.org/2024.emnlp-tutorials.4/
 
 Tutorial website: https://sites.google.com/view/reasoning-with-explanations
 
