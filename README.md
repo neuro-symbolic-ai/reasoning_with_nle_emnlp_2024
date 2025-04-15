@@ -14,7 +14,7 @@ Tutorial website: https://sites.google.com/view/reasoning-with-explanations
 
 In this repository you will find the code for reproducing the demonstrations presented during the tutorial.
 
-We are working on an updated version of the neuro-symbolic framework discussed during the tutorial. The code can be found here: https://github.com/neuro-symbolic-ai/peirce/ 
+We are working on an updated version of the explanation-based neuro-symbolic reasoning framework. The repository can be found here: https://github.com/neuro-symbolic-ai/peirce/ 
 
 ![Image description](framework.png)
 
